@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project 0: Ewart\'s App Portfolio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="string">My Nanodegree Apps</string>
+    <string name="my_nano_degree_apps">My Nanodegree Apps!</string>
+</resources>
